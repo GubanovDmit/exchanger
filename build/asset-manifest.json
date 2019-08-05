@@ -1,11 +1,11 @@
 {
-  "main.css": "/exch/static/css/main.af6586a5.chunk.css",
-  "main.js": "/exch/static/js/main.73a82040.chunk.js",
-  "static/css/1.24310a58.chunk.css": "/exch/static/css/1.24310a58.chunk.css",
-  "static/js/1.fd2fc323.chunk.js": "/exch/static/js/1.fd2fc323.chunk.js",
-  "runtime~main.js": "/exch/static/js/runtime~main.ce8c72c8.js",
-  "static/media/styles.scss": "/exch/static/media/GIF1.10c88ae0.gif",
-  "index.html": "/exch/index.html",
-  "precache-manifest.71b81d957e25835b08f8f02c1f2f9ea3.js": "/exch/precache-manifest.71b81d957e25835b08f8f02c1f2f9ea3.js",
-  "service-worker.js": "/exch/service-worker.js"
+  "main.css": "/exchanger/static/css/main.5e3f608f.chunk.css",
+  "main.js": "/exchanger/static/js/main.21e137fb.chunk.js",
+  "static/css/1.24310a58.chunk.css": "/exchanger/static/css/1.24310a58.chunk.css",
+  "static/js/1.82149b46.chunk.js": "/exchanger/static/js/1.82149b46.chunk.js",
+  "runtime~main.js": "/exchanger/static/js/runtime~main.1583b48c.js",
+  "static/media/styles.scss": "/exchanger/static/media/GIF1.10c88ae0.gif",
+  "index.html": "/exchanger/index.html",
+  "precache-manifest.20adf51d5c532552099646d59ec263ca.js": "/exchanger/precache-manifest.20adf51d5c532552099646d59ec263ca.js",
+  "service-worker.js": "/exchanger/service-worker.js"
 }
