@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "liquidator-waves.xyz/precache-manifest.b5de57cf67c98f508f662a0c6f5e10b1.js"
+  "liquidator-waves.xyz/precache-manifest.bc8865bd1c414b26d37d4eed40aae79e.js"
 );
 
 workbox.clientsClaim();

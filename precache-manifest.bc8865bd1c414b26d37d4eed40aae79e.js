@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "liquidator-waves.xyz/static/css/1.24310a58.chunk.css"
   },
   {
-    "revision": "30bb189af9779f3e50434286da50884d",
+    "revision": "d223f591ad1e666d1ee7c5567102f04d",
     "url": "liquidator-waves.xyz/index.html"
   }
 ];
