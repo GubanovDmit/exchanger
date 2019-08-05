@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/exchanger/precache-manifest.20adf51d5c532552099646d59ec263ca.js"
+  "liquidator-waves.xyz/precache-manifest.b5de57cf67c98f508f662a0c6f5e10b1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/exchanger/index.html", {
+workbox.routing.registerNavigationRoute("liquidator-waves.xyz/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
