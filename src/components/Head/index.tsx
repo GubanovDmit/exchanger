@@ -38,7 +38,16 @@ export default class Head extends React.Component<IProps> {
                     <div className={styles.info}>
                     <div className={styles.header_logoFont}><h2>Exchanger with constant liquidity</h2>
                     <div className={styles.gif}/>
-
+                    <p>
+                    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145192555-1"></script>
+                    <script>
+                      window.dataLayer = window.dataLayer || [];
+                      function gtag(){dataLayer.push(arguments);}
+                      gtag('js', new Date());
+                                    
+                      gtag('config', 'UA-145192555-1');
+                    </script>
+                    </p>
                     <p>Exchanger-dApp stores Waves and Liquid assets and allows to exchange them. The price is calculated by the formula depending on the amount of assets it has. The less asset is left - the greater is calculated price.</p>   
 
                     {/* <p>
