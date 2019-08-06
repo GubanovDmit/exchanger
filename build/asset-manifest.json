@@ -1,11 +1,11 @@
 {
-  "main.css": "liquidator-waves.xyz/static/css/main.252243dc.chunk.css",
-  "main.js": "liquidator-waves.xyz/static/js/main.f96c038a.chunk.js",
-  "static/css/1.24310a58.chunk.css": "liquidator-waves.xyz/static/css/1.24310a58.chunk.css",
-  "static/js/1.5021fc21.chunk.js": "liquidator-waves.xyz/static/js/1.5021fc21.chunk.js",
-  "runtime~main.js": "liquidator-waves.xyz/static/js/runtime~main.1b4057ff.js",
-  "static/media/styles.scss": "liquidator-waves.xyz/static/media/GIF1.10c88ae0.gif",
-  "index.html": "liquidator-waves.xyz/index.html",
-  "precache-manifest.b5de57cf67c98f508f662a0c6f5e10b1.js": "liquidator-waves.xyz/precache-manifest.b5de57cf67c98f508f662a0c6f5e10b1.js",
-  "service-worker.js": "liquidator-waves.xyz/service-worker.js"
+  "main.css": "/static/css/main.1190919d.chunk.css",
+  "main.js": "/static/js/main.c9ac5e68.chunk.js",
+  "static/css/1.24310a58.chunk.css": "/static/css/1.24310a58.chunk.css",
+  "static/js/1.a36e2b58.chunk.js": "/static/js/1.a36e2b58.chunk.js",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "static/media/styles.scss": "/static/media/GIF1.10c88ae0.gif",
+  "index.html": "/index.html",
+  "precache-manifest.6d1eb5d8372df0e0837f0893cd173bf7.js": "/precache-manifest.6d1eb5d8372df0e0837f0893cd173bf7.js",
+  "service-worker.js": "/service-worker.js"
 }
